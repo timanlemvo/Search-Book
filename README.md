@@ -24,11 +24,11 @@ Using GraphQL, create an account and access the Google Book Search API. Save you
 Simply create an account, search for your favourite books, save them and access all kinds of useful information about them at any time!
 
 ## Screenshot
-![Homepage Screenshot](./client/public/screenshot.jpg)
+![Homepage Screenshot](./images/book-search.png)
 
 
 ## Deployed
-https://book-search-99.herokuapp.com/
+[Live Demo](https://book-search-99.herokuapp.com/)
 
 ## License
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
